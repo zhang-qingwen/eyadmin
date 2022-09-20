@@ -16,5 +16,6 @@ public class Test {
         System.out.println("Hello, git5 hotfix branch");
         System.out.println("Hello, git5 hotfix branch");
         System.out.println("Hello, git6 hotfix branch");
+        System.out.println("hello, I am changing the code in github!");
     }
 }
