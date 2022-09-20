@@ -11,5 +11,10 @@ public class Test {
         System.out.println("Hello, git5 master change");
         System.out.println("Hello, git5 master change");
         System.out.println("Hello, git5 master change");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git6 hotfix branch");
     }
 }
