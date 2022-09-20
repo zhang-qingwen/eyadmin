@@ -6,5 +6,7 @@ public class Test {
         System.out.println("Hello, git2");
         System.out.println("Hello, git3");
         System.out.println("Hello, git4");
+        System.out.println("Hello, git5 master change");
+
     }
 }
