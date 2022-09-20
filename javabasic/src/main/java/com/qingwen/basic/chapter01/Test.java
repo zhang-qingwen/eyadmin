@@ -7,5 +7,9 @@ public class Test {
         System.out.println("Hello, git3");
         System.out.println("Hello, git4");
         System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git5 hotfix branch");
+        System.out.println("Hello, git6 hotfix branch");
     }
 }
