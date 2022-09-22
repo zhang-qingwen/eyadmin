@@ -1,4 +1,4 @@
-package com.qingwen.basic.chapter01;
+package com.qingwen.basic.day00;
 
 public class GitTest {
     public static void main(String[] args) {
