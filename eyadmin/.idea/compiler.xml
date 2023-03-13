@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eyadmin-system" />
+        <module name="eyadmin-generator" />
+        <module name="eyadmin-tools" />
+        <module name="eyadmin-common" />
+        <module name="eyadmin-logging" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eladmin-system" target="17" />
+      <module name="eyadmin" target="1.8" />
+      <module name="eyadmin-common" target="1.8" />
+      <module name="eyadmin-generator" target="1.8" />
+      <module name="eyadmin-logging" target="1.8" />
+      <module name="eyadmin-system" target="1.8" />
+      <module name="eyadmin-tools" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eladmin-system" options="-parameters" />
+      <module name="eyadmin" options="-parameters" />
+      <module name="eyadmin-common" options="-parameters" />
+      <module name="eyadmin-generator" options="-parameters" />
+      <module name="eyadmin-logging" options="-parameters" />
+      <module name="eyadmin-system" options="-parameters" />
+      <module name="eyadmin-tools" options="-parameters" />
+    </option>
+  </component>
+</project>

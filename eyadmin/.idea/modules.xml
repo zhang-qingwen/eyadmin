@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eyadmin.iml" filepath="$PROJECT_DIR$/eyadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eyadmin-common/eyadmin-common.iml" filepath="$PROJECT_DIR$/eyadmin-common/eyadmin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eyadmin-generator/eyadmin-generator.iml" filepath="$PROJECT_DIR$/eyadmin-generator/eyadmin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eyadmin-logging/eyadmin-logging.iml" filepath="$PROJECT_DIR$/eyadmin-logging/eyadmin-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eyadmin-system/eyadmin-system.iml" filepath="$PROJECT_DIR$/eyadmin-system/eyadmin-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eyadmin-tools/eyadmin-tools.iml" filepath="$PROJECT_DIR$/eyadmin-tools/eyadmin-tools.iml" />
+    </modules>
+  </component>
+</project>
